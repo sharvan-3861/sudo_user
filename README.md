@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sudo_user_65535</h1>
 <h3 align="center">Trail on few things,learning is not a crime!</h3>
 
-- 🌱 I’m currently learning **TERMINAL**
+- 🌱 I’m currently learning **ON TERMINAL**
 
 - ⚡ Fact **NO SYSTEM IS SECURED IN THIS WORLD!**
 

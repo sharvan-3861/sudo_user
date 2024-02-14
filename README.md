@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **ON TERMINAL**
 
-- ⚡ Fact **NO SYSTEM IS SECURED IN THIS WORLD!**
+- ⚡ Fact: **NO SYSTEM IS SECURED IN THIS WORLD!**
 
-- ⚡ Truth **DATA PRIVACY IS A HUMAN RIGHT!**
+- ⚡ Truth: **DATA PRIVACY IS A HUMAN RIGHT!**
 
-- 💬 Legal **LEARNING IS NOT A CRIME**
+- 💬 Legal: **LEARNING IS NOT A CRIME**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

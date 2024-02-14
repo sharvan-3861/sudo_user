@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm sudo_user_65535</h1>
+<h1 align="center">Hi 👋, I'm 𝕊𝕌𝔻𝕆_𝕌𝕊𝔼ℝ 𝟞𝟝𝟝𝟛𝟝</h1>
 <h3 align="center">Trail on few things,learning is not a crime!</h3>
 
 - 🌱 I’m currently learning **ON TERMINAL**

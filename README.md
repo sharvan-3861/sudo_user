@@ -14,6 +14,3 @@
 <div id="header" align="left">
 <img src="https://media.giphy.com/media/ZqOGQO6ZMSqUYDHj0T/giphy.gif"/>
 </div>
-<div id="header" align="right">
-<img src="https://media.giphy.com/media/M3nwJpDEUxkCzVftCi/giphy.gif"/>
-</div>

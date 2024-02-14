@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 𝕊𝕌𝔻𝕆_𝕌𝕊𝔼ℝ 𝟞𝟝𝟝𝟛𝟝</h1>
-<h3 align="center">CS ONLY THE WAY!</h3>
+<h3 align="center">ＣＳ ＯＮＬＹ ＴＨＥ ＷＡＹ!</h3>
 
 - 🌱 I’m currently learning **ON TERMINAL**
 

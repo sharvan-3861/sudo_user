@@ -18,6 +18,9 @@
 <div id="header" align="left">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXk2MWw2M3o5azRwd2QzbGx5NWdycnVkdjVld3Fqcm5xa2NhYXZlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/60s1Es4wj9GQaF2UyH/giphy.gif"/>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <div id="badges">
   <img src=https://img.shields.io/badge/𝙽𝙸𝚃𝚁𝙾_2.0-green"/>
 </div>

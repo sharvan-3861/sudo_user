@@ -36,4 +36,4 @@
   ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=noobhackers&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=noob-hackers&theme=dark)](https://git.io/streak-stats)
